@@ -1,3 +1,37 @@
 body{
-    background-color: red;
+    font-family: 'Montserrat', sans-serif;
+}
+#header{
+    background-image: url(img/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    
+}
+.boton-nav{
+    background: #FC5000;
+    color: #ffffff;
+}
+.titulo-a{
+    font-family: 'Londrina Outline', cursive;
+    color:#FC5000 ;
+    font-size: 100px;
+}
+.titulo-b{
+    font-family: 'Londrina Solid', cursive;
+    color: #ffffff;
+    font-size: 100px;
+    margin-top:-4%;
+}
+.titulo{
+    text-align: center;
+    padding-top: 10%;
+}
+.titulo-c{
+    color: #ffffff;
+}
+.titulo-boton{
+    border-radius: 5px;
+    margin-top: 3%;
 }
