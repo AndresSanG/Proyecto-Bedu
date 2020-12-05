@@ -45,4 +45,22 @@ body{
 }
 .img-car{
 }
-
+.efecto{
+    transform:scale(1);
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.efecto:hover{
+	transform:scale(1.2);
+}
+.derecha{
+    float: right;
+}
+.centro{
+    text-align: center;
+}
+.izquierda{
+    float: left;
+}
