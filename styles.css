@@ -17,6 +17,7 @@ body{
     font-family: 'Londrina Outline', cursive;
     color:#FC5000 ;
     font-size: 100px;
+    font-weight: bold;
 }
 .titulo-b{
     font-family: 'Londrina Solid', cursive;
@@ -35,3 +36,13 @@ body{
     border-radius: 5px;
     margin-top: 3%;
 }
+.carousel{
+    text-align: center;
+    margin-top: 20px;
+    padding: 50px;
+}
+.carousel-inner{
+}
+.img-car{
+}
+
