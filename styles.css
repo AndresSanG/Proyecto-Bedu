@@ -9,10 +9,6 @@ body{
     height: 100vh;
     
 }
-.boton-nav{
-    background: #FC5000;
-    color: #ffffff;
-}
 .titulo-a{
     font-family: 'Londrina Outline', cursive;
     color:#FC5000 ;
@@ -70,7 +66,6 @@ body{
     padding: 20px;
     text-align: left;
 }
-/* footer */
 a:hover{
     text-decoration:none;
 }
@@ -101,4 +96,8 @@ a:hover{
 }
 .bottom .copyright p, .bottom .copyright a:hover{
     color: #6c6d83;
+}
+@media(max-width:575px){
+    .efecto:hover{
+        transform:scale(1);
 }
